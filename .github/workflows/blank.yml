@@ -1,0 +1,28 @@
+name: Update README with Real-Time Clock
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Run every 5 minutes
+  workflow_dispatch: # Allows manual triggering if required
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README with Current Time
+        run: |
+          CURRENT_TIME=$(date '+%H:%M:%S %Z')
+          echo "⏰ Current Time: $CURRENT_TIME" >> README.md
+          echo -e "\nUpdated by [GitHub Actions](https://github.com/features/actions)" >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "SemilogoDan"
+          git config --global user.email "semilogoolusola@gmail.com"
+          git add README.md
+          git commit -m "Update real-time clock in README"
+          git push
