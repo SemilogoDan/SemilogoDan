@@ -29,7 +29,6 @@
 - 🇬🇧 English  
 - 🇳🇱 Dutch
 ---
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sogonetolusola) ![Jumping Emoji](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sogonetolusola) ![Ko-fi Button GIF](https://media.tenor.com/WY0iuSwisdIAAAAi/kofi-kofibutton.gif)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
