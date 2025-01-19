@@ -7,8 +7,18 @@
 </p>
 
 ### I am a:
-- 🧑‍💻 Programming Enthusiast
-- 🌍 Open Source Advocate
-- 📚 Lifelong Learner
-- 
+- 🧑‍💻 Programming Enthusiast  
+- 🌍 Open Source Advocate  
+- 📚 Lifelong Learner  
+- 🎹 Pianist  
+- 🏊 Swimmer  
+- ✈️ Traveler  
+- 🎨 Design Lover  
+
+---
+
+### 🌍 Languages I Speak:
+- 🇬🇧 English  
+- 🇳🇱 Dutch
+  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
