@@ -24,11 +24,11 @@
 - 🏊 Swimmer  
 - ✈️ Traveler  
 - 🎨 Design Lover  
-
 ---
-
 ### 🌍 Languages I Speak:
 - 🇬🇧 English  
 - 🇳🇱 Dutch
-  
+---
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sogonetolusola) 🎉
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
