@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemilogoDan&layout=compact" />
 </p>
 
-⚡ **Information Communication Technology** at **ULB/VUB** 🎓 ( Belgium 🇧🇪).  
+⚡ **Information Communication Technology | Information  Technology** at **ULB/VUB** 🎓 ( Belgium 🇧🇪).  
 
 ### 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OlusolaDev)
