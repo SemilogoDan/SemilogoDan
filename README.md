@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- GitHub Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemilogoDan&layout=compact&langs_count=10&exclude_repo=repo1,repo2&hide=jupyter%20notebook,html,css&bg_color=282C34&title_color=3B7EBF&text_color=FFFFFF&icon_color=3B7EBF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemilogoDan&layout=compact&langs_count=10&bg_color=282C34&title_color=3B7EBF&text_color=FFFFFF&icon_color=3B7EBF&hide_border=true" />
 </p>
 
 <p align="center">
@@ -18,10 +18,18 @@
 
 ### 🌐 Socials:
 <p align="center">
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OlusolaDev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/)
-  [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/semilogoDan)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SmartHomeSolution-h1y)
+  <a href="https://x.com/OlusolaDev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://gitlab.com/semilogoDan" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@SmartHomeSolution-h1y" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </p>
 
 ### I am a:
@@ -48,10 +56,14 @@
 ---
 
 <p align="center">
-  [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sogonetolusola)
-  ![Ko-fi Button GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXplaTZnNzFmcmFkajBsNjBmZDJvMm43NzgxZDJwZGo2ZjZseHV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R6iBifIOyyV3tvmBb9/giphy.gif)
+  <!-- Ko-fi Support Section -->
+  <a href="https://ko-fi.com/sogonetolusola" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
+  </a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXplaTZnNzFmcmFkajBsNjBmZDJvMm43NzgxZDJwZGo2ZjZseHV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R6iBifIOyyV3tvmBb9/giphy.gif" alt="Ko-fi Button GIF"/>
 </p>
 
 <p align="center">
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
+  <!-- Correct Visitors Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SemilogoDan" alt="Visitors Badge"/>
 </p>
