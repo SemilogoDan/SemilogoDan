@@ -1,22 +1,34 @@
+# ⚡ **Information Communication Technology (ICT) | Information Technology (IT)** at **ULB/VUB** 🎓 (Belgium 🇧🇪).
+
+# Hi there 👋🏾!
+
+Welcome to my GitHub profile. I'm **Semilogo Ogungbure**, a passionate **Software Engineer** from Belgium 🇧🇪. I work with various programming languages and constantly learn new tools and techniques to enhance my skills. I believe in the power of **open-source contributions** and the beauty of collaboration in the tech world 🌍.
+
+---
+
 <div align="center">
   <img src="assets/Welcome.gif" alt="Welcome Animation">
 </div>
+
+### Languages I Love 💻:
+I work with various programming languages depending on the project. Below is a snapshot of the most used languages in my GitHub repositories:
 
 <p align="center">
   <!-- GitHub Top Languages Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemilogoDan&layout=compact&langs_count=10&bg_color=282C34&title_color=3B7EBF&text_color=FFFFFF&icon_color=3B7EBF&hide_border=true" />
 </p>
 
+Consistency is key in coding and learning. Here’s my current streak and total contributions on GitHub:
+
 <p align="center">
   <!-- WakaTime Coding Activity -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SemilogoDan&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
 
-<p align="center">
-  ⚡ **Information Communication Technology | Information Technology** at **ULB/VUB** 🎓 (Belgium 🇧🇪).
-</p>
 
 ### 🌐 Socials:
+Feel free to explore my repositories, check out my blog, or connect with me on social media. I’m always open to collaboration and excited about new opportunities in tech!
+
 <p align="center">
   <a href="https://x.com/OlusolaDev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -49,17 +61,11 @@
 
 ---
 
-### 🛠️ **Key Projects & Contributions**:
-- **Project 1**: A brief description of one of your key projects.
-- **Project 2**: Another project highlighting your skills.
-
----
+### 🙏 Support Me:
+If you enjoy my work, consider buying me a coffee!
 
 <p align="center">
-  <!-- Ko-fi Support Section -->
-  <a href="https://ko-fi.com/sogonetolusola" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
-  </a>
+  [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sogonetolusola)  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXplaTZnNzFmcmFkajBsNjBmZDJvMm43NzgxZDJwZGo2ZjZseHV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R6iBifIOyyV3tvmBb9/giphy.gif" alt="Ko-fi Button GIF"/>
 </p>
 
