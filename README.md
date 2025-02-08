@@ -2,7 +2,7 @@
 
 # Hi there 👋🏾!
 
-Welcome to my GitHub profile. I'm **Semilogo Ogungbure**, a passionate **Software Engineer** from Belgium 🇧🇪. I work with various programming languages and constantly learn new tools and techniques to enhance my skills. I believe in the power of **open-source contributions** and the beauty of collaboration in the tech world 🌍.
+Welcome to my GitHub profile. I'm **Semilogo Ogungbure**, an aspiring **Software Engineer**. I work with various programming languages and constantly learn new tools and techniques to enhance my skills. I believe in the power of **open-source contributions** and the beauty of collaboration in the tech world 🌍.
 
 ---
 
@@ -41,6 +41,9 @@ Feel free to explore my repositories, check out my blog, or connect with me on s
   </a>
   <a href="https://www.youtube.com/@SmartHomeSolution-h1y" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://medium.com/@SemilogoDan/tor-personal-vpn-exploring-home-based-and-cloud-based-solutions-for-personal-vpn-over-tor-57e6ae0c100d" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </p>
 
