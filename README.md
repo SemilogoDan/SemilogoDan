@@ -2,7 +2,7 @@
 
 # Hi there 👋🏾!
 
-Welcome to my GitHub profile. I'm **Semilogo Ogungbure**, an aspiring ** Graduate Engineering position**. I work with various programming languages and constantly learn new tools and techniques to enhance my skills. I believe in the power of **open-source contributions** and the beauty of collaboration in the tech world 🌍.
+Welcome to my GitHub profile. I'm **Semilogo Ogungbure**, an aspiring **Graduate Engineering position**. I work with various programming languages and constantly learn new tools and techniques to enhance my skills. I believe in the power of **open-source contributions** and the beauty of collaboration in the tech world 🌍.
 
 ---
 
