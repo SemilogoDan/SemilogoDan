@@ -81,9 +81,12 @@ If you enjoy my work, consider buying me a coffee!
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SemilogoDan" alt="Visitors Badge"/>
 </p>
 
+## 🐍 Snake Animation
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake-dark.svg?color=blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg?color=red" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg?color=green" />
 </picture>
+
 
