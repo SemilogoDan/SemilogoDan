@@ -14,9 +14,6 @@ Welcome to my GitHub profile. I'm **Semilogo Ogungbure**, an aspiring **Graduate
 Feel free to explore my repositories, check out my blog, or connect with me on social media. I’m always open to collaboration and excited about new opportunities in tech!
 
 <p align="center">
-  <a href="https://x.com/OlusolaDev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -55,8 +52,7 @@ Consistency is key in coding and learning. Here’s my current streak and total 
 - 🎹 **Pianist**
 - 🏊 **Swimmer**
 - ✈️ **Traveler**
-- 🎨 **Design Lover**
-
+- 📐 **Schematic Enthusiast**
 ---
 
 ### 🌍 **Languages I Speak**:
@@ -65,6 +61,7 @@ Consistency is key in coding and learning. Here’s my current streak and total 
 
 ---
 
+<!-- 
 ### 🙏 Support Me:
 If you enjoy my work, consider buying me a coffee!
 
@@ -75,6 +72,8 @@ If you enjoy my work, consider buying me a coffee!
   <br />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXplaTZnNzFmcmFkajBsNjBmZDJvMm43NzgxZDJwZGo2ZjZseHV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R6iBifIOyyV3tvmBb9/giphy.gif" alt="Ko-fi Button GIF"/>
 </p>
+-->
+
 
 <p align="center">
   <!-- Correct Visitors Badge -->
