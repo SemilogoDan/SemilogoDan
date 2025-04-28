@@ -26,7 +26,7 @@ I believe in the power of **open-source contributions** and the beauty of collab
 - ✈️ **Traveler**
 - 📐 **Schematic Enthusiast**
 ---
-🔧 Tech Stack
+# 🔧 Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,js,flask,fastapi,mongodb,mysql,postgres,docker,netlify,matlab" alt="Skills and tools"/>
