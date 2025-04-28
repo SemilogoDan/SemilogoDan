@@ -1,8 +1,37 @@
-# ⚡ **Information Communication Technology (ICT) | Information Technology (IT)** at **ULB/VUB** 🎓 (Belgium 🇧🇪).
+<h1 align="center">Hi, I'm Semilogo Ogungbure! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-# Hi there 👋🏾!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=45A29E&width=435&lines=Recent+Master+Electrical+Engineer;Control+System+Engineer;ML+and+AI+Engineer;Data+Enthusiast;Problem+Solver;Open+Source+Advocate" />
+</p>
+<!--## 🐍 Snake Animation -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake-dark.svg?color=blue" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg?color=red" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg?color=green" />
+</picture>
+-->
 
-Welcome to my GitHub profile. I'm **Semilogo Ogungbure**, an aspiring **Graduate Engineering position**. I work with various programming languages and constantly learn new tools and techniques to enhance my skills. I believe in the power of **open-source contributions** and the beauty of collaboration in the tech world 🌍.
+![snake gif dark](https://github.com/Pengalu/Pengalu/blob/output/github-snake-dark.svg)
+
+# About Me
+I believe in the power of **open-source contributions** and the beauty of collaboration in the tech world 🌍.
+
+### I am a:
+- 🧑‍💻 **Programming Enthusiast**
+- 🌍 **Open Source Advocate**
+- 📚 **Lifelong Learner**
+- 🎹 **Pianist**
+- 🏊 **Swimmer**
+- ✈️ **Traveler**
+- 📐 **Schematic Enthusiast**
+---
+🔧 Tech Stack
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,flask,fastapi,mongodb,mysql,postgres,docker,netlify,matlab" alt="Skills and tools"/>
+</a>
+</p>
 
 ---
 
@@ -43,16 +72,10 @@ Consistency is key in coding and learning. Here’s my current streak and total 
   <!-- WakaTime Coding Activity -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SemilogoDan&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SemilogoDan&theme=dracula" alt="Summary Cards">
+</p>
 
-
-### I am a:
-- 🧑‍💻 **Programming Enthusiast**
-- 🌍 **Open Source Advocate**
-- 📚 **Lifelong Learner**
-- 🎹 **Pianist**
-- 🏊 **Swimmer**
-- ✈️ **Traveler**
-- 📐 **Schematic Enthusiast**
 ---
 
 ### 🌍 **Languages I Speak**:
@@ -80,15 +103,5 @@ If you enjoy my work, consider buying me a coffee!
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SemilogoDan" alt="Visitors Badge"/>
 </p>
 
-## 🐍 Snake Animation
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake-dark.svg?color=blue" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg?color=red" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BenguetAime/BenguetAime/output/github-snake.svg?color=green" />
-</picture>
--->
-
-![snake gif dark](https://github.com/Pengalu/Pengalu/blob/output/github-snake-dark.svg)
 
