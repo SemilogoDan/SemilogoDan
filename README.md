@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Semilogo Ogungbure! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=45A29E&width=435&lines=Recent+Master+Electrical+Engineer;Control+System+Engineer;ML+and+AI+Engineer;Data+Enthusiast;Problem+Solver;Open+Source+Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=45A29E&width=800&lines=Recent+Master+Degree+Electrical+Engineer;Forward+-+thinking+Industrial+automation+/+Control+System+Engineer;ML+/+AI+Engineer;Data+Enthusiast,+Problem+Solver+and+Open+Source+Advocate" />
 </p>
 <!--## 🐍 Snake Animation -->
 <!--
